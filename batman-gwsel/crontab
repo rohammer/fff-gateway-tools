@@ -1,0 +1,3 @@
+# update Gatewayselection
+*/5 * * * * 	root /usr/local/bin/dyn_announce_gw_bw.sh
+
